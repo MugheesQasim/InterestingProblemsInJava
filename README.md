@@ -1,6 +1,6 @@
-## InterestingProblemsInJava
+# InterestingProblemsInJava
 
-# Problems List
+## Problems List
 
 1. Find number of cool strings of fixed length 4 in a given string. A cool string is the one which contains all unique characters.
 Example:  {"abcdbcd"}
